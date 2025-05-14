@@ -1,0 +1,1 @@
+﻿SELECT Name,Price  FROM Items where Name='Shawarma' 

@@ -1,0 +1,1 @@
+﻿SELECT  ItemID,Count From TransactionHistory where ItemID='1'
