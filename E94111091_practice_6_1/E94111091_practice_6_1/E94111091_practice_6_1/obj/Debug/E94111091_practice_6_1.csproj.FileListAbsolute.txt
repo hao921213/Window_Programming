@@ -1,0 +1,10 @@
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\bin\Debug\E94111091_practice_6_1.exe.config
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\bin\Debug\E94111091_practice_6_1.exe
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\bin\Debug\E94111091_practice_6_1.pdb
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.csproj.AssemblyReference.cache
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.Properties.Resources.resources
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.csproj.GenerateResource.cache
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.csproj.CoreCompileInputs.cache
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.exe
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.pdb
+D:\vs\視窗程式設計\E94111091_practice_6_1\E94111091_practice_6_1\obj\Debug\E94111091_practice_6_1.Form1.resources
