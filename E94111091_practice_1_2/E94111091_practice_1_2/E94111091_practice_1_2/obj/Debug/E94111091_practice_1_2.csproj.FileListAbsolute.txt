@@ -1,7 +1,0 @@
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\bin\Debug\E94111091_practice_1_2.exe.config
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\bin\Debug\E94111091_practice_1_2.exe
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\bin\Debug\E94111091_practice_1_2.pdb
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\obj\Debug\E94111091_practice_1_2.csproj.AssemblyReference.cache
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\obj\Debug\E94111091_practice_1_2.csproj.CoreCompileInputs.cache
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\obj\Debug\E94111091_practice_1_2.exe
-D:\vs\視窗程式設計\E94111091_practice_1_2\E94111091_practice_1_2\obj\Debug\E94111091_practice_1_2.pdb
