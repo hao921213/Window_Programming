@@ -1,0 +1,7 @@
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\bin\Debug\E94111091_HW1-1.exe.config
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\bin\Debug\E94111091_HW1-1.exe
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\bin\Debug\E94111091_HW1-1.pdb
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\obj\Debug\E94111091_HW1-1.csproj.AssemblyReference.cache
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\obj\Debug\E94111091_HW1-1.csproj.CoreCompileInputs.cache
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\obj\Debug\E94111091_HW1-1.exe
+D:\vs\視窗程式設計\E94111091_HW1-1\E94111091_HW1-1\obj\Debug\E94111091_HW1-1.pdb
