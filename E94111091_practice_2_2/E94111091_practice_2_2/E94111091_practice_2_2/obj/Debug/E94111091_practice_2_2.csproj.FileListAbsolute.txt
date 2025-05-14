@@ -1,0 +1,14 @@
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\bin\Debug\E94111091_practice_2_2.exe.config
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\bin\Debug\E94111091_practice_2_2.exe
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\bin\Debug\E94111091_practice_2_2.pdb
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.csproj.AssemblyReference.cache
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.csproj.CoreCompileInputs.cache
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.exe
+C:\Users\hao92\source\repos\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.pdb
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\bin\Debug\E94111091_practice_2_2.exe.config
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\bin\Debug\E94111091_practice_2_2.exe
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\bin\Debug\E94111091_practice_2_2.pdb
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.csproj.AssemblyReference.cache
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.csproj.CoreCompileInputs.cache
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.exe
+D:\vs\視窗程式設計\E94111091_practice_2_2\E94111091_practice_2_2\obj\Debug\E94111091_practice_2_2.pdb
